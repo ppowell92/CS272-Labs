@@ -1,4 +1,4 @@
-##################### CS272-Labs #############################
+##################### CS272-Labs #############################\n
 This repository contains school work created in the CS 272 
 Intro to Datastructures course at New Mexico State University.
 
