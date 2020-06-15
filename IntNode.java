@@ -60,7 +60,7 @@ public class IntNode {
 	 	* None.
 	 	* @postcondition
 	 	* The list's integer values are converted to String and formatted appropriately. 
-	 	* @returns
+	 	* @return
 	 	* A String object that contains the list's integer values.
 	 */
 	
